@@ -1,4 +1,5 @@
 # apnacollege
 This is my first git repository
 <br>
-Author - Rohini
+Author - Rohini (Apna college)
+
